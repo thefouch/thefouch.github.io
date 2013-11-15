@@ -2,7 +2,7 @@ title:            Biologie et Poésie, le site de Marius
 tagline:          boom bada boom
 description:      I love cookies
 #Comment out url when working locally to resolve base urls correctly
-url:              http://www.mariuswalter.com
+url:              http://mariuswalter.github.io
 
 # Owner/author information
 owner:
