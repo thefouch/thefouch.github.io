@@ -1,14 +1,14 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Biologie et Poésie, le site de Marius
+tagline:          boom bada boom
+description:      I love cookies
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://www.mariuswalter.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Marius
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            "I'm the Walrus"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
@@ -41,7 +41,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Paris
 future:      true
 pygments:    true
 markdown:    kramdown
