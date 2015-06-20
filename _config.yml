@@ -1,14 +1,14 @@
-title:            Biologie et Poésie
+title:            Architechno
 tagline:          boom bada boom
-description:      I love cookies
+description:      I love red cookies
 #Comment out url when working locally to resolve base urls correctly
-url:              http://mariuswalter.github.io
+url:              http://thefouch.github.io
 
 # Owner/author information
 owner:
-  name:           Marius
+  name:           The Fouch
   avatar:         marius-squared.png
-  bio:            "DNA methylation will make you happy"
+  bio:            "Le Corbusier makes you happy"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
