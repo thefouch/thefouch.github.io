@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Me
-tags: [about, marius, life]
+tags: [about, fouch, life]
 modified: 9-9-2013
 image:
   feature: texture-feature-02.jpg
