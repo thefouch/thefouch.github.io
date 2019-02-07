@@ -2,7 +2,7 @@ title:            Architechno
 tagline:          boom bada boom
 description:      I love red cookies
 #Comment out url when working locally to resolve base urls correctly
-url:              http://thefouch.github.io
+#url:              http://thefouch.github.io
 
 # Owner/author information
 owner:
